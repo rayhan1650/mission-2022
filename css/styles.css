@@ -10,12 +10,17 @@ h3 {
   font-size: 40px;
 }
 
+.top h3 {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
 h4 {
   font-size: 30px;
 }
 
 p {
-  font-size: 15px;
+  font-size: 17px;
 }
 
 body {
@@ -74,7 +79,8 @@ body {
 }
 
 .profile-pic img {
-  width: 350px;
+  width: 400px;
+  height: 450px;
 }
 
 .my-mission h2 {
